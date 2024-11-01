@@ -1,4 +1,4 @@
-This script gives you a basic template to automate the rollout of credentials files in Veracode.
+This script gives you a basic template to automate the rollout of credentials files for usage in Veracode integrations.
 
 ## Usage ##
 
