@@ -1,4 +1,4 @@
-This script gives you a basic template to generate API credentials.
+This script gives you a basic template to automate the rollout of credentials files in Veracode.
 
 ## Usage ##
 
